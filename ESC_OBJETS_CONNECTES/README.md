@@ -92,7 +92,7 @@ Les commentaires et certaines parties du code ont été réalisés avec l’assi
 
 Usage pédagogique uniquement. Reproduction ou réutilisation à des fins commerciales interdite sans autorisation.
 
-✅ 3. Conseils finaux avant livraison
+✅ Conseils finaux avant livraison
 
 Vérifiez que chaque .h contient bien des gardes d’inclusion :
 
